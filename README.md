@@ -1,4 +1,4 @@
-![face (36) (1)](https://github.com/sphinxDevVic/sphinxDevVic/assets/157985910/38a433c8-30eb-4dc1-b774-5c8c1f6db773)Hello, fellow developers! 👋<br><br>
+Hello, fellow developers! 👋<br><br>
 Welcome to my GitHub profile! As a passionate React/Vue developer, I strive to create exceptional web experiences and build innovative solutions. With a strong foundation in front-end development, I am committed to pushing boundaries and expanding my expertise in these cutting-edge frameworks.
 
 #About Me 🙋‍♂️<br>
