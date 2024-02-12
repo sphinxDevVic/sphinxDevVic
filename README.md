@@ -1,8 +1,12 @@
-Hello, fellow developers! 👋<br><br>
+![face (36) (1)](https://github.com/sphinxDevVic/sphinxDevVic/assets/157985910/38a433c8-30eb-4dc1-b774-5c8c1f6db773)Hello, fellow developers! 👋<br><br>
 Welcome to my GitHub profile! As a passionate React/Vue developer, I strive to create exceptional web experiences and build innovative solutions. With a strong foundation in front-end development, I am committed to pushing boundaries and expanding my expertise in these cutting-edge frameworks.
 
 #About Me 🙋‍♂️<br>
 I am a dedicated and enthusiastic developer who thrives on challenges and loves the ever-evolving nature of the tech industry. I have a deep passion for creating elegant and efficient code that not only meets the requirements but also exceeds expectations. My goal is to contribute to the growth and success of projects by delivering high-quality, scalable, and maintainable code.
+
+<h3 align="center">    
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+</h3>
 
 #Tech Stack 💻<br>
 Languages: JavaScript (ES6+)<br>
